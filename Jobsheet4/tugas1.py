@@ -1,0 +1,13 @@
+nim     =input ("masukkan nim: ")
+nama    =input("masukkan nama: ")
+prodi   =input("masukkan prodi: ")
+hoby    =input("masukkan hoby: ")
+alamat  =input("masukkan alamat: ")
+email   =input("masukkan email: ")
+
+print = ("Nim:", nim)
+print = ("Nama:", nama)
+print = ("Prodi", prodi)
+print = ("Hoby:", hoby)
+print = ("ALamat:", alamat)
+print = ("Email:", email)
